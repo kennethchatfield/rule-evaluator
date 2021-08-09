@@ -1,0 +1,19 @@
+{
+  "name": "@vivintsolar/rule-evaluator",
+  "version": "2.1.8",
+  "description": "Node Package to evaluate rules from the Requirements Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ../test/testAll.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennethchatfield/rule-evaluator.git"
+  },
+  "author": "Kenneth Chatfield <chatfield.kenny@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennethchatfield/rule-evaluator/issues"
+  },
+  "homepage": "https://github.com/kennethchatfield/rule-evaluator#readme"
+}
